@@ -123,4 +123,3 @@ Não há suíte de testes, linter ou script de build configurado. Para uma verif
 5. Execute o Lighthouse no ambiente em que o site será hospedado e compare as métricas em condições semelhantes.
 
 Uma nota do Lighthouse depende do dispositivo, da rede, do navegador, do cache e dos serviços externos; por isso, o projeto não promete uma pontuação específica.
-ok quai
